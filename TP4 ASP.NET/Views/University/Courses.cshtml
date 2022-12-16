@@ -1,0 +1,27 @@
+﻿@model List<string>
+
+<h1>List of all Courses</h1>
+<br>
+<table class="table">
+  
+        <thead>
+            <tr>
+                <th scope="col">Course Name</th>
+                 <th scope="col">Link</th>
+               
+            </tr>
+        </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>
+                    @p
+                </td>
+                <td>
+                    <a href="courses/@p.ToLower()" style="text-decoration:none;"> Show Students </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

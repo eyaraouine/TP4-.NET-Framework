@@ -1,0 +1,72 @@
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.AssemblyInfo.cs
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\scopedcss\bundle\TP4 ASP.NET.styles.css
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\staticwebassets\TP4 ASP.NET.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\staticwebassets\TP4 ASP.NET.StaticWebAssets.Pack.cache
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\staticwebassets\msbuild.TP4 ASP.NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\staticwebassets\msbuild.build.TP4 ASP.NET.props
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TP4 ASP.NET.props
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TP4 ASP.NET.props
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.TagHelpers.input.cache
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.TagHelpers.output.cache
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.RazorCoreGenerate.cache
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\Razor\Views\University\Courses.cshtml.g.cs
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\Razor\Views\University\StudentsByCourse.cshtml.g.cs
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.RazorTargetAssemblyInfo.cs
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\refint\TP4 ASP.NET.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.pdb
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\appsettings.json
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\TP4 ASP.NET.exe
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\TP4 ASP.NET.deps.json
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\TP4 ASP.NET.runtimeconfig.json
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\TP4 ASP.NET.runtimeconfig.dev.json
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\TP4 ASP.NET.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\TP4 ASP.NET.pdb
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\TP4 ASP.NET.Views.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\TP4 ASP.NET.Views.pdb
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.Views.pdb
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.csproj.CopyComplete
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\TP4 ASP.NET.genruntimeconfig.cache
+C:\Users\user\source\repos\TP4 ASP.NET\TP4 ASP.NET\obj\Debug\net5.0\ref\TP4 ASP.NET.dll
